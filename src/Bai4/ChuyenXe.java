@@ -56,6 +56,6 @@ public class ChuyenXe {
     
     public void hienthiTTCX()
     {
-        System.out.println("Mã số chuyến xe :"+ maSoChuyenXe +"Họ tên tài xế"+hotenTaiXe+"Số xe :"+soXe+"Doanh thu :"+doanhThu);
+        System.out.println("Mã số chuyến xe :"+ maSoChuyenXe +", Họ tên tài xế :"+hotenTaiXe+", Số xe :"+soXe+", Doanh thu :"+doanhThu);
     }
 }

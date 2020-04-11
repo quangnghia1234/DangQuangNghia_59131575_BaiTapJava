@@ -40,6 +40,6 @@ public class ChuyenXeNoiThanh extends ChuyenXe{
         System.out.println("\nThông tin chuyến xe nội thành :\n");
         super.hienthiTTCX();
         
-        System.out.println("Số tuyến :"+soTuyen+"Số Km đi được"+soKm);
+        System.out.println(", Số tuyến :"+soTuyen+", Số Km đi được"+soKm);
     }
 }

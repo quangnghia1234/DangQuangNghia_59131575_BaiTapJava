@@ -40,7 +40,7 @@ public class ChuyenXeNgoaiThanh extends ChuyenXe{
         System.out.println("\nThông tin chuyến xe ngoại thành :");
         super.hienthiTTCX();
         
-        System.out.println("Nơi đến :"+noiDen+"Số ngày :"+soNgay);
+        System.out.println(", Nơi đến :"+noiDen+", Số ngày :"+soNgay);
     }
 }
 
